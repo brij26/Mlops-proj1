@@ -1,4 +1,5 @@
 rf_model.pkl
+artifact/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
